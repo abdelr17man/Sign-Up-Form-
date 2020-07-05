@@ -1,0 +1,86 @@
+
+*
+{
+	display: block;
+	margin: 10px;
+	padding: 7px;
+
+
+
+}
+
+
+button
+{
+	display:inline;
+	width: 100px;
+	border-radius:4px;
+	background-color:#33d9b2;
+	opacity:.6 
+	
+}
+
+
+
+
+button:hover
+{ 
+	background-color:#33d9b2;
+	opacity:1;
+
+}
+
+
+
+
+
+h1
+{
+
+font-weight: bold;
+
+}
+
+p
+{
+	font-size: 25px
+}
+
+
+
+fieldset
+{
+	width: 550px;
+	height: auto;
+	border-radius: 18px
+
+}
+
+
+
+label
+{
+	font: 20px bolder tahoma;
+}
+
+
+body
+{
+	height: 700px;
+	background-image: url(beauty.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	
+}
+
+
+input
+{
+	border: none;
+	border-radius: 16px;
+	background-color:#ddd;
+	width: 200px
+	
+}
